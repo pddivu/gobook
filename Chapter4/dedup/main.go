@@ -8,7 +8,6 @@ import (
 
 func main() {
 
-	//lines := make(map[string]bool)
 	lines := map[string]bool{"Divya": true}
 	input := bufio.NewScanner(os.Stdin)
 
